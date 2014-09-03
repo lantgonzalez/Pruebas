@@ -1,0 +1,3 @@
+Algunas cosas que hay que considerar:
+-Compilar
+-Publicar
